@@ -1,0 +1,6 @@
+{
+  "name": "Mahavir Kirana & General Store",
+  "description": "Full-stack online grocery ordering and owner admin portal for Mahavir Kirana with WhatsApp integration, order tracking, inventory manager, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
